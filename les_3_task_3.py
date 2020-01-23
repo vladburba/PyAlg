@@ -27,5 +27,3 @@ print(pos_min)
 numbers.insert(pos_min, max_)
 numbers.insert(pos_max, min_)
 print(numbers)
-
-
