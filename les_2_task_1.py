@@ -17,7 +17,7 @@ while True:
         if operator == '/':
             if b == 0:
                 print('Деление на ноль')
-                break
+                continue
             else:
                 print(f'{a / b:.1f}')
                 continue
